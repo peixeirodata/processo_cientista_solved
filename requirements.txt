@@ -1,0 +1,8 @@
+os 0.1.1
+pandas 0.25.3
+numpy 1.17.04
+matplotlib 3.0.3
+seaborn 0.9.0
+scikit-learn 0.20.3
+yellowbrick 1.0.1
+jupyter notebook
